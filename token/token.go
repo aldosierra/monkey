@@ -43,7 +43,7 @@ const (
 	LET       = "LET"
 	TRUE      = "TRUE"
 	FALSE     = "FALSE"
-	IF        = "LET"
+	IF        = "IF"
 	ELSE      = "ELSE"
 	RETURN    = "RETURN"
 )
